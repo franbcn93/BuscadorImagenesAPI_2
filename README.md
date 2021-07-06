@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Para probar el projecto... [Haz click aquí](https://franbcn93.github.io/BuscadorImagenesAPI).
+Para probar el projecto... [Haz click aquí](https://franbcn93.github.io/BuscadorImagenesAPI_2).
 
 ## Available Scripts
 

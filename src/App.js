@@ -36,7 +36,7 @@ function App() {
       jumbotron.scrollIntoView({ behavior: "smooth" });
     };
     consultarAPI();
-  }, [busqueda, paginaActual]);
+  }, [busqueda, paginaActual, imgPorPagina]);
 
   // Definir la pagina Anterior
   const paginaAnterior = () => {
