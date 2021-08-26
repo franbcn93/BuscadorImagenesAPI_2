@@ -14,15 +14,28 @@ function App() {
   const [paginaActual, guardarPaginaActual] = useState(1);
   const [totalPaginas, guardarTotalPaginas] = useState(1);
 
+  let opcion = "";
+
   useEffect(() => {
     const consultarAPI = async () => {
       // if (categoria === "") return;
 
       if (busqueda === "") return;
 
+      // Dependiendo de lo escogido... Te  muestra unas imagenes u otras
+      if (formato === "Fotos") {
+        opcion = "photo";
+      } else if (formato === "Ilustraciones") {
+        opcion = "illustration";
+      } else if (formato === "Vectores") {
+        opcion = "vector";
+      } else if (formato === "Todos") {
+        opcion = "all";
+      }
+
       // const imagenesPorPagina = 30;
       const key = ApiKey.myKey;
-      const url = `https://pixabay.com/api/?key=${key}&q=${busqueda}&per_page=${imgPorPagina}&page=${paginaActual}`;
+      const url = `https://pixabay.com/api/?key=${key}&q=${busqueda}&image_type=${opcion}&per_page=${imgPorPagina}&page=${paginaActual}`;
 
       const respuesta = await fetch(url);
       const resultado = await respuesta.json();
