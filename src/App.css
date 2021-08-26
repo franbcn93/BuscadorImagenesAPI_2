@@ -1,0 +1,18 @@
+.options {
+  margin-bottom: 30px;
+}
+.paginaActual {
+  width: 20%;
+  padding: 8px;
+  margin: 18px;
+  border-color: #0d6efd;
+  border-radius: 6px;
+  font-size: 16px;
+  color: white;
+  background-color: #0d6efd;
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out,
+    border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+.paginaActual:hover {
+  background-color: #0d0add;
+}
