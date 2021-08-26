@@ -11,7 +11,7 @@ export const Opciones = ({ guardarCategoria }) => {
 
   const OpcionesCat = [
     "",
-    "Fotos",
+    "Todos",
     "Ilustraciones",
     "Vectores",
     "Videos",
