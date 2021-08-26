@@ -1,21 +1,24 @@
 {
   "files": {
-    "main.js": "/BuscadorImagenesAPI_2/static/js/main.ea067a9a.chunk.js",
-    "main.js.map": "/BuscadorImagenesAPI_2/static/js/main.ea067a9a.chunk.js.map",
-    "runtime-main.js": "/BuscadorImagenesAPI_2/static/js/runtime-main.c1afde00.js",
-    "runtime-main.js.map": "/BuscadorImagenesAPI_2/static/js/runtime-main.c1afde00.js.map",
-    "static/js/2.239171a1.chunk.js": "/BuscadorImagenesAPI_2/static/js/2.239171a1.chunk.js",
-    "static/js/2.239171a1.chunk.js.map": "/BuscadorImagenesAPI_2/static/js/2.239171a1.chunk.js.map",
-    "static/js/3.10f65349.chunk.js": "/BuscadorImagenesAPI_2/static/js/3.10f65349.chunk.js",
-    "static/js/3.10f65349.chunk.js.map": "/BuscadorImagenesAPI_2/static/js/3.10f65349.chunk.js.map",
+    "main.css": "/BuscadorImagenesAPI_2/static/css/main.b13c6785.chunk.css",
+    "main.js": "/BuscadorImagenesAPI_2/static/js/main.a5cfc548.chunk.js",
+    "main.js.map": "/BuscadorImagenesAPI_2/static/js/main.a5cfc548.chunk.js.map",
+    "runtime-main.js": "/BuscadorImagenesAPI_2/static/js/runtime-main.5b598692.js",
+    "runtime-main.js.map": "/BuscadorImagenesAPI_2/static/js/runtime-main.5b598692.js.map",
+    "static/js/2.88fec0c1.chunk.js": "/BuscadorImagenesAPI_2/static/js/2.88fec0c1.chunk.js",
+    "static/js/2.88fec0c1.chunk.js.map": "/BuscadorImagenesAPI_2/static/js/2.88fec0c1.chunk.js.map",
+    "static/js/3.2412b75d.chunk.js": "/BuscadorImagenesAPI_2/static/js/3.2412b75d.chunk.js",
+    "static/js/3.2412b75d.chunk.js.map": "/BuscadorImagenesAPI_2/static/js/3.2412b75d.chunk.js.map",
     "index.html": "/BuscadorImagenesAPI_2/index.html",
-    "static/js/2.239171a1.chunk.js.LICENSE.txt": "/BuscadorImagenesAPI_2/static/js/2.239171a1.chunk.js.LICENSE.txt",
+    "static/css/main.b13c6785.chunk.css.map": "/BuscadorImagenesAPI_2/static/css/main.b13c6785.chunk.css.map",
+    "static/js/2.88fec0c1.chunk.js.LICENSE.txt": "/BuscadorImagenesAPI_2/static/js/2.88fec0c1.chunk.js.LICENSE.txt",
     "static/media/like.c5458c51.png": "/BuscadorImagenesAPI_2/static/media/like.c5458c51.png",
     "static/media/views.b73b5c47.png": "/BuscadorImagenesAPI_2/static/media/views.b73b5c47.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c1afde00.js",
-    "static/js/2.239171a1.chunk.js",
-    "static/js/main.ea067a9a.chunk.js"
+    "static/js/runtime-main.5b598692.js",
+    "static/js/2.88fec0c1.chunk.js",
+    "static/css/main.b13c6785.chunk.css",
+    "static/js/main.a5cfc548.chunk.js"
   ]
 }
